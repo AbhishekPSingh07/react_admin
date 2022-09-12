@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_admin/static/css/main.0e05d5eb.css",
+    "main.js": "/react_admin/static/js/main.0c8dbe21.js",
+    "index.html": "/react_admin/index.html",
+    "main.0e05d5eb.css.map": "/react_admin/static/css/main.0e05d5eb.css.map",
+    "main.0c8dbe21.js.map": "/react_admin/static/js/main.0c8dbe21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e05d5eb.css",
+    "static/js/main.0c8dbe21.js"
+  ]
+}
