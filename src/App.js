@@ -30,7 +30,7 @@ function App() {
     <div className={darkMode ?"App dark" : "App"}>
       <BrowserRouter>
     <Routes>
-      <Route path="/">
+      <Route path="/react_admin">
       <Route path='login' element={<Login/>}/>
         <Route index element={<RequireAuth><Home/></RequireAuth>} />
         <Route path='users'>
